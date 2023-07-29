@@ -1,9 +1,9 @@
-package chapter2.item2;
+package org.yeachan.chapter2.item2;
 
 import java.util.Objects;
 
 /**
- * package :  chapter2.item2
+ * package :  org.yeachan.chapter2.item2
  * fileName : NyPizza
  * author :  ShinYeaChan
  * date : 2023-07-28

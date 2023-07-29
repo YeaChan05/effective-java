@@ -1,11 +1,11 @@
-package chapter2.item2;
+package org.yeachan.chapter2.item2;
 
 import java.util.EnumSet;
 import java.util.Objects;
 import java.util.Set;
 
 /**
- * package :  chapter2.item2
+ * package :  org.yeachan.chapter2.item2
  * fileName : Pizza
  * author :  ShinYeaChan
  * date : 2023-07-28

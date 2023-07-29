@@ -1,12 +1,12 @@
-package chapter2.item1;
+package org.yeachan.chapter2.item1;
 
 import java.util.EnumSet;
 
-import static chapter2.item1.Foo.Color.RED;
-import static chapter2.item1.Foo.Color.WHITE;
+import static org.yeachan.chapter2.item1.Foo.Color.RED;
+import static org.yeachan.chapter2.item1.Foo.Color.WHITE;
 
 /**
- * package :  chapter2.Foo
+ * package :  org.yeachan.chapter2.Foo
  * fileName : Foo
  * author :  ShinYeaChan
  * date : 2023-07-26

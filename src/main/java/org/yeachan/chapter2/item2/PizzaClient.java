@@ -1,7 +1,7 @@
-package chapter2.item2;
+package org.yeachan.chapter2.item2;
 
 /**
- * package :  chapter2.item2
+ * package :  org.yeachan.chapter2.item2
  * fileName : PizzaClient
  * author :  ShinYeaChan
  * date : 2023-07-28

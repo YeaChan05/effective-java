@@ -1,13 +1,12 @@
-package chapter2.item2;
+package org.yeachan.chapter2.item2;
 
 import lombok.Builder;
-import lombok.NoArgsConstructor;
 import lombok.Singular;
 
 import java.util.List;
 
 /**
- * package :  chapter2.item2
+ * package :  org.yeachan.chapter2.item2
  * fileName : NutritionFacts
  * author :  ShinYeaChan
  * date : 2023-07-28
