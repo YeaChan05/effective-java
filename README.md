@@ -22,3 +22,4 @@
 - [item 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라](/src/main/org.yeachan.chapter2/item3)
 - [item 4. 인스턴스화를 막으려거든 private 생성자를사용하라](/src/main/org.yeachan.chapter2/item4)
 - [item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](/src/main/org.yeachan.chapter2/item5)
+- [item 6. 불필요한 객체 생성을 피하라](/src/main/org.yeachan.chapter2/item6)
