@@ -24,3 +24,4 @@
 - [item 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라](/src/main/org.yeachan.chapter2/item5)
 - [item 6. 불필요한 객체 생성을 피하라](/src/main/org.yeachan.chapter2/item6)
 - [item 7. 다 쓴 객체 참조를 해제하라](/src/main/org.yeachan.chapter2/item7)
+- [item 8. finalizer와 cleaner 사용을 피하라](/src/main/org.yeachan.chapter2/item8)
